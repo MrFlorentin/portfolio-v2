@@ -34,5 +34,5 @@ npm run dev
 💼 Bientôt
 
 ---
-_"⚡️ Get the Flow"_
+_⚡️ Get the Flow_
 
