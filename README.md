@@ -4,9 +4,9 @@ Bienvenue dans la V2 de mon portfolio !
 Ce projet est une refonte complète avec un design plus moderne, des animations fluides et une meilleure expérience utilisateur.
 
 ## 🚀 **Tech Stack**
-- **Frontend :** React, TailwindCSS, Framer Motion
-- **Backend :** Node.js, Express (si applicable)
-- **Autres :** Vite, GSAP, Three.js (si applicable)
+- **Frontend :** Non indiqué
+- **Backend :** Non indiqué
+- **Autres :** Non indiqué
 
 📂 **Structure du projet**
 ```
